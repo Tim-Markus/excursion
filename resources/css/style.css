@@ -1,0 +1,65 @@
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      color: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-top: 40px;
+      font-weight: bold;
+    }
+
+    a {
+      color: #4fd1c5;
+      font-size: 0.9rem;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .phone {
+      margin-top: 40px;
+    }
+
+    .phone img {
+      width: 280px;
+    }
+
+    h2 {
+      margin-top: 60px;
+      font-size: 2rem;
+    }
+
+    p.subtext {
+      color: #bbb;
+      font-size: 1rem;
+      margin-bottom: 40px;
+    }
+
+    .camp img {
+      width: 80%;
+      max-width: 900px;
+      margin: 0 auto;
+      display: block;
+      border-radius: 4px;
+    }
+
+    .icon img {
+      width: 50px;
+      margin-top: 50px;
+      margin-bottom: 10px;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding-bottom: 20px;
+      font-size: 0.8rem;
+      color: #666;
+    }
